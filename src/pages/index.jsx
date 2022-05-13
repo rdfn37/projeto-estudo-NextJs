@@ -23,6 +23,9 @@ export default function Home() {
         <li>
           <NavLink link='/estado' pageName='Trabalhando Com Estado' />
         </li>
+        <li>
+          <NavLink link='/integracao' pageName='Integração com API' />
+        </li>
       </ul>
     </div>
   );
